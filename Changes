@@ -1,5 +1,8 @@
 Revision history for Perl extension Pod-Perldocs.
 
+0.17  Jan 6, 2011
+  - ISHIGAKI took over the maintenance
+
 0.16  Jan 2, 2009
   - forgot to pass $self into get_soap
 

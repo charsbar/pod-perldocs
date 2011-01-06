@@ -5,7 +5,7 @@ require Pod::Perldoc;
 use LWP::UserAgent;
 use base qw(Pod::Perldoc);
 our ($VERSION);
-$VERSION = '0.16';
+$VERSION = '0.17';
 
 ################################################################
 # Change the following to reflect your setup
@@ -130,5 +130,9 @@ L<Pod::Perldoc>.
 This software is copyright 2004,2009 by Randy Kobes
 E<lt>r.kobes@uwinnipeg.caE<gt>. Usage and redistribution
 is under the same terms as Perl itself.
+
+=head1 CURRENT MAINTAINER
+
+Kenichi Ishigaki E<lt>ishigaki@cpan.orgE<gt>
 
 =cut
